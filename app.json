@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "CamperTrip",
+    "slug": "campertrip",
+    "version": "0.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F5FBFA"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.campertrip.app"
+    },
+    "android": {
+      "package": "com.campertrip.app"
+    }
+  }
+}
